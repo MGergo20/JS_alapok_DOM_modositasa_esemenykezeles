@@ -42,5 +42,6 @@ function elemekElerese4() {
 
 function elemekFormazasa1() {
     const formaz1 = document.getElementsByClassName("lista")[0];
-    formaz1.classList.add("")
+    formaz1.classList.add("formazott")
+    formaz1.innerHTML= " ";
 }
